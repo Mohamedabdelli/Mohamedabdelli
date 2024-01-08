@@ -3,7 +3,7 @@
 
 👀 I’m passionate about Machine Learning Engineering, Data Engineering, and Deep Learning.
 
-🌱 Currently, I'm diving into MLOps, exploring tools like Azure Machine Learning, Azure DevOps, and MLFlow.
+🌱 Currently, I'm diving into MLOps, exploring tools like Azure Machine Learning ,Amazon SageMaker and MLFlow.
 
 👯 I'm eager to collaborate with like-minded individuals on exciting AI projects.
 
